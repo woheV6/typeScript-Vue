@@ -1,3 +1,7 @@
+# 简介 这是一个vue-cli结合typescript的项目，里面有详细的配置
+
+>详细步骤请转接到我的简书：https://www.jianshu.com/writer#/notebooks/26442536/notes/29350795
+
 # vue-typescript
 
 > A Vue.js project
